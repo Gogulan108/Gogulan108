@@ -3,39 +3,64 @@
 <h3 align="center">Frontend Developer | UI/UX Enthusiast | Performance Nerd 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7EF&center=true&vCenter=true&width=435&lines=Passionate+Frontend+Developer;Preparing+for+MAANG+interviews;React+%7C+JS+%7C+Web+Performance;Accessibility+%7C+UI+UX+%7C+DevTools" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7EF&center=true&vCenter=true&width=435&lines=Frontend+Developer+%7C+React+%7C+JS+%7C+Performance;Preparing+for+MAANG-level+Frontend+Interviews;I+design+for+users+and+code+for+clarity;Clean+code+%2B+Clear+UI+%3D+Good+Vibes" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 💡 About Me
 
-- 🔭 Working on **real-world React projects** and performance profiling  
-- 🌱 Learning **advanced frontend interview topics** daily  
-- 💬 Ask me about **React, rendering patterns, Chrome DevTools, and accessibility**  
-- 🎯 Currently focused on **building confident routines and mastering frontend depth**  
-- 🧠 I believe in growing one habit at a time — mind clarity, UI clarity 🌱  
-- 💌 Connect with me on [LinkedIn](https://www.linkedin.com/in/gogulan-k/) or drop a message anytime!
+- 🔭 Currently building performance-optimized React projects  
+- 💡 Exploring real-world frontend architecture & rendering strategies  
+- 📚 Preparing for **MAANG-level frontend interviews** with hands-on problem solving  
+- 🧠 Practicing mindful focus — “clear mind, clean code”  
+- 💌 Reach out on [LinkedIn](https://www.linkedin.com/in/gogulankanagaraj/) or email at [gogulankrish5@gmail.com](mailto:gogulankrish5@gmail.com)
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Skills
 
-<p align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black" />
-  <img src="https://img.shields.io/badge/DevTools-FF7139?style=flat&logo=googlechrome&logoColor=white" />
-</p>
+#### 🚀 Frontend Development
+`React.js` · `TypeScript` · `JavaScript (ES6+)` · `HTML5` · `CSS3`
+
+#### 🧩 State Management
+`Redux` · `React Query` · `Context API`
+
+#### 🧱 UI Architecture
+`Component Libraries` · `Micro Frontends` · `HOC` · `Compound Components`
+
+#### 🎨 Styling Systems
+`Material UI` · `Styled-Components` · `TailwindCSS`
+
+#### 🌐 API & Backend Integration
+`RESTful APIs` · `GraphQL` · `Axios` · `Swagger` · `JSON`
+
+#### ✅ Testing & QA
+`Jest` · `React Testing Library`
+
+#### 📈 Performance Optimization
+`Lighthouse` · `Lazy Loading` · `Code Splitting` · `DevTools Profiling`
+
+#### ♿ Accessibility
+`WCAG standards` · `Semantic HTML` · `Cross-Browser Compatibility`
+
+#### 🧰 Tools & Design
+`Git` · `Webpack` · `Vite` · `VSCode` · `Figma` · `Postman`
 
 ---
 
-### 📈 GitHub Stats
+### 🌐 My Portfolio & Projects
+
+- 💼 [**Personal Portfolio**](https://your-portfolio-url.com)  
+- 💡 [**Project 1: Performance Dashboard**](https://github.com/Gogulan108/performance-dashboard)  
+- 🔗 [**Project 2: Accessible UI Kit**](https://github.com/Gogulan108/accessible-ui-kit)  
+- 🎨 [**Project 3: Frontend Interview Tracker**](https://github.com/Gogulan108/frontend-interview-prep)
+
+> _Want a walk-through or code review? Reach out anytime!_
+
+---
+
+### 📈 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gogulan108&show_icons=true&theme=tokyonight" width="45%" />
@@ -44,24 +69,40 @@
 
 ---
 
-### 📚 Currently Exploring
+### 💻 LeetCode Progress
 
-- ⚡ Frontend performance tuning (Core Web Vitals, lazy loading, bundle optimization)
-- 🧩 Accessibility best practices (ARIA roles, screen reader support)
-- 🎯 Interview simulations and project-based case studies
+<p align="center">
+  <a href="https://leetcode.com/Gogulan108/">
+    <img src="https://leetcard.jacoblin.cool/Gogulan108?theme=dark&font=Fira+Code&ext=heatmap" alt="LeetCode Stats" />
+  </a>
+</p>
+
+---
+
+### 🔍 Currently Exploring
+
+- ⚡ Frontend performance (Web Vitals, React memoization, lazy rendering)
+- 🧠 UI accessibility: screen reader support, semantic structure
+- 🎯 Mock interview simulations & real-case UI breakdowns
 
 ---
 
 ### 💬 Fun Fact
 
-> “A clean UI starts from a clear mind.”  
-> Whether it’s React components or life decisions — I believe in refining one pixel (or habit) at a time ✨
+> “I debug UI bugs the same way I debug thoughts — inspect, simplify, and refactor.”
 
 ---
 
-### 🧠 Let's Connect & Grow
+### 📬 Let’s Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gogulankanagaraj/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:gogulankrish5@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/gogulankanagaraj/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:gogulankrish5@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/Gogulan108/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
 </p>
