@@ -63,14 +63,14 @@
 
 > _Need a code review or walkthrough? Feel free to ping me!_
 
+---
+
 ### 💻 LeetCode Progress
 
 <p align="center">
   <!-- Weekly heatmap graph -->
   <img src="https://leetcard.jacoblin.cool/Gogulankrish5?ext=heatmap&theme=dark&font=Fira+Code&width=560" alt="LeetCode Weekly Heatmap" />
 </p>
-
----
 
 ---
 
