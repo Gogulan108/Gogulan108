@@ -2,10 +2,6 @@
 <h1 align="center">Hi 👋, I'm Gogulan K</h1>
 <h3 align="center">Frontend Developer · UI/UX Enthusiast · Performance Nerd 🚀</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7EF&center=true&vCenter=true&width=500&lines=Crafting+fast%2C+accessible+UIs+ React+%7C+TypeScript+%7C+Performance;Clean+code+%2B+Clear+UI+%3D+Good+Vibes" alt="Typing SVG" />
-</p>
-
 ---
 
 ### 💡 About Me
@@ -67,6 +63,15 @@
 
 > _Need a code review or walkthrough? Feel free to ping me!_
 
+### 💻 LeetCode Progress
+
+<p align="center">
+  <!-- Weekly heatmap graph -->
+  <img src="https://leetcard.jacoblin.cool/Gogulankrish5?ext=heatmap&theme=dark&font=Fira+Code&width=560" alt="LeetCode Weekly Heatmap" />
+</p>
+
+---
+
 ---
 
 ### 📈 GitHub Activity
@@ -74,19 +79,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gogulan108&show_icons=true&theme=tokyonight" width="45%" />
   <img src="https://streak-stats.demolab.com/?user=Gogulan108&theme=tokyonight" width="45%" />
-</p>
-
----
-
-### 💻 LeetCode Progress
-
-<p align="center">
-  <a href="https://leetcode.com/Gogulankrish5/">
-    <img src="https://leetcard.jacoblin.cool/Gogulankrish5?theme=dark&font=Fira+Code" alt="LeetCode Stats" />
-  </a>
-  <br/>
-  <!-- Weekly heatmap graph -->
-  <img src="https://leetcard.jacoblin.cool/Gogulankrish5?ext=heatmap&theme=dark&font=Fira+Code&width=560" alt="LeetCode Weekly Heatmap" />
 </p>
 
 ---
