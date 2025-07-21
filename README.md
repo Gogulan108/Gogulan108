@@ -3,7 +3,7 @@
 <h3 align="center">Frontend Developer | UI/UX Enthusiast | Performance Nerd 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7EF&center=true&vCenter=true&width=435&lines=Frontend+Developer+%7C+React+%7C+JS+%7C+Performance;Preparing+for+MAANG-level+Frontend+Interviews;I+design+for+users+and+code+for+clarity;Clean+code+%2B+Clear+UI+%3D+Good+Vibes" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7EF&center=true&vCenter=true&width=435&lines=Frontend+Developer" alt="Typing SVG" />
 </p>
 
 ---
