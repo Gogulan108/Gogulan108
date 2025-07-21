@@ -51,7 +51,7 @@
 ### 🌐 My Portfolio & Projects
 
 - 💼 [**Personal Portfolio**](https://gogulan-portfolio.vercel.app/)  
-- 💡 [**Project 1: Portfolio**](https://github.com/Gogulan108/Gogulan-Portfolio)  
+- 💡 [**Project 1: Personal Portfolio**](https://github.com/Gogulan108/Gogulan-Portfolio)  
 - 🔗 [**Project 2: comm-sync (chat application) **](https://github.com/Gogulan108/Comm-Sync)  
 
 > _Want a walk-through or code review? Reach out anytime!_
@@ -71,7 +71,7 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/Gogulankrish5/">
-    <img src="https://leetcard.jacoblin.cool/Gogulankrish5?theme=dark&font=Fira+Code&ext=heatmap" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/Gogulankrish5?theme=white&font=Fira+Code&ext=heatmap" alt="LeetCode Stats" />
   </a>
 </p>
 
