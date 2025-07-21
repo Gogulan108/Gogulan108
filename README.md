@@ -1,60 +1,71 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Gogulan K</h1>
-<h3 align="center">Frontend Developer | UI/UX Enthusiast | Performance Nerd 🚀</h3>
+<h3 align="center">Frontend Developer · UI/UX Enthusiast · Performance Nerd 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7EF&center=true&vCenter=true&width=435&lines=Frontend+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7EF&center=true&vCenter=true&width=500&lines=Crafting+fast%2C+accessible+UIs+ React+%7C+TypeScript+%7C+Performance;Clean+code+%2B+Clear+UI+%3D+Good+Vibes" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 💡 About Me
 
-- 🔭 Currently building performance-optimized React projects  
-- 💡 Exploring real-world frontend architecture & rendering strategies  
-- 🧠 Practicing mindful focus — “clear mind, clean code”  
-- 💌 Reach out on [LinkedIn](https://www.linkedin.com/in/gogulankanagaraj/) or email at [gogulankrish5@gmail.com](mailto:gogulankrish5@gmail.com)
+- 🔭 Building **performance‑optimised React apps** and design systems  
+- 🌱 Deep‑diving into **frontend architecture, rendering patterns & Web Vitals**  
+- 🏆 **Spot Award – ZF Digital Solutions (Q1 2025)** for impactful work on the Reporting Framework  
+- 🧠 Mindfulness believer → “clear mind, clean code”  
+- 💌 Let’s connect on [LinkedIn](https://www.linkedin.com/in/gogulankanagaraj/) or say hi at [gogulankrish5@gmail.com](mailto:gogulankrish5@gmail.com)
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Tech Stack & Core Skills
 
-#### 🚀 Frontend Development
-`React.js` · `TypeScript` · `JavaScript (ES6+)` · `HTML5` · `CSS3`
+#### 🚀 Frontend  
+`React.js` • `TypeScript` • `JavaScript (ES6+)` • `HTML5` • `CSS3`
 
-#### 🧩 State Management
-`Redux` · `React Query` · `Context API`
+#### 🧩 State Management  
+`Redux` • `React Query` • `Context API`
 
-#### 🧱 UI Architecture
-`Component Libraries` · `Micro Frontends` · `HOC` · `Compound Components`
+#### 🧱 UI Architecture  
+`Component Libraries` • `Micro Frontends` • `HOC` • `Compound Components`
 
-#### 🎨 Styling Systems
-`Material UI` · `Styled-Components` · `TailwindCSS`
+#### 🎨 Styling  
+`Material UI` • `Styled‑Components` • `TailwindCSS`
 
-#### 🌐 API & Backend Integration
-`RESTful APIs` · `GraphQL` · `Axios` · `Swagger` · `JSON`
+#### 🌐 API & Backend Integration  
+`REST` • `GraphQL` • `Axios` • `Swagger`
 
-#### ✅ Testing & QA
-`Jest` · `React Testing Library`
+#### ✅ Testing  
+`Jest` • `React Testing Library`
 
-#### 📈 Performance Optimization
-`Lighthouse` · `Lazy Loading` · `Code Splitting` · `DevTools Profiling`
+#### 📈 Performance  
+`Lighthouse` • `Lazy Loading` • `Code Splitting` • `DevTools Profiling`
 
-#### ♿ Accessibility
-`WCAG standards` · `Semantic HTML` · `Cross-Browser Compatibility`
+#### ♿ Accessibility  
+`WCAG 2.x` • `Semantic HTML` • `Cross‑Browser Compatibility`
 
-#### 🧰 Tools & Design
-`Git` · `Webpack` · `Vite` · `VSCode` · `Figma` · `Postman`
+#### 🧰 Tooling & Design  
+`Git` • `Webpack` • `Vite` • `VS Code` • `Figma` • `Postman`
 
 ---
 
-### 🌐 My Portfolio & Projects
+### 🏆 Achievements & Certifications
 
-- 💼 [**Personal Portfolio**](https://gogulan-portfolio.vercel.app/)  
-- 💡 [**Project 1: Personal Portfolio**](https://github.com/Gogulan108/Gogulan-Portfolio)  
-- 🔗 [**Project 2: comm-sync (chat application) **](https://github.com/Gogulan108/Comm-Sync)  
+<p>
+  <img src="https://img.shields.io/badge/Spot%20Award-ZF%20Digital%20Solutions%20(Q1%202025)-brightgreen?style=for-the-badge" alt="Spot Award Badge" />
+</p>
 
-> _Want a walk-through or code review? Reach out anytime!_
+---
+
+### 🌐 Featured Projects
+
+| Project | Stack | Highlights |
+| ------- | ----- | ---------- |
+| **Personal Portfolio** <br/>[Live Demo](https://gogulan-portfolio.vercel.app/) • [Repo](https://github.com/Gogulan108/Gogulan-Portfolio) | React, TypeScript, Tailwind, Vite, Framer Motion | Responsive, animated sections, EmailJS contact form |
+| **Comm‑Sync** <br/>[Repo](https://github.com/Gogulan108/Comm-Sync) | React, TypeScript, Vite, Firebase, Tailwind, React Query | Real‑time Slack‑like chat, channel threads, Firebase Auth, atomic design |
+| **Qube Test** <br/>[Repo](https://github.com/Gogulan108/Qube_Test) | JavaScript | Experimenting with complex array transformations and testing utilities |
+
+> _Need a code review or walkthrough? Feel free to ping me!_
 
 ---
 
@@ -70,24 +81,27 @@
 ### 💻 LeetCode Progress
 
 <p align="center">
-  <a href="https://leetcode.com/u/Gogulankrish5/">
-    <img src="https://leetcard.jacoblin.cool/Gogulankrish5?theme=white&font=Fira+Code&ext=heatmap" alt="LeetCode Stats" />
+  <a href="https://leetcode.com/Gogulankrish5/">
+    <img src="https://leetcard.jacoblin.cool/Gogulankrish5?theme=dark&font=Fira+Code" alt="LeetCode Stats" />
   </a>
+  <br/>
+  <!-- Weekly heatmap graph -->
+  <img src="https://leetcard.jacoblin.cool/Gogulankrish5?ext=heatmap&theme=dark&font=Fira+Code&width=560" alt="LeetCode Weekly Heatmap" />
 </p>
 
 ---
 
 ### 🔍 Currently Exploring
 
-- ⚡ Frontend performance (Web Vitals, React memoization, lazy rendering)
-- 🧠 UI accessibility: screen reader support, semantic structure
-- 🎯 Mock interview simulations & real-case UI breakdowns
+- ⚡ Advanced Web Vitals tuning & React memoisation  
+- ♿ Deep accessibility audits with screen readers  
+- 🎯 Interview simulations & real‑case UI breakdowns  
 
 ---
 
 ### 💬 Fun Fact
 
-> “I debug UI bugs the same way I debug thoughts — inspect, simplify, and refactor.”
+> “I debug UI bugs the same way I debug thoughts — inspect, simplify, refactor.”
 
 ---
 
