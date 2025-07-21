@@ -12,7 +12,6 @@
 
 - 🔭 Currently building performance-optimized React projects  
 - 💡 Exploring real-world frontend architecture & rendering strategies  
-- 📚 Preparing for **MAANG-level frontend interviews** with hands-on problem solving  
 - 🧠 Practicing mindful focus — “clear mind, clean code”  
 - 💌 Reach out on [LinkedIn](https://www.linkedin.com/in/gogulankanagaraj/) or email at [gogulankrish5@gmail.com](mailto:gogulankrish5@gmail.com)
 
@@ -51,10 +50,9 @@
 
 ### 🌐 My Portfolio & Projects
 
-- 💼 [**Personal Portfolio**](https://your-portfolio-url.com)  
-- 💡 [**Project 1: Performance Dashboard**](https://github.com/Gogulan108/performance-dashboard)  
-- 🔗 [**Project 2: Accessible UI Kit**](https://github.com/Gogulan108/accessible-ui-kit)  
-- 🎨 [**Project 3: Frontend Interview Tracker**](https://github.com/Gogulan108/frontend-interview-prep)
+- 💼 [**Personal Portfolio**](https://gogulan-portfolio.vercel.app/)  
+- 💡 [**Project 1: Portfolio**](https://github.com/Gogulan108/Gogulan-Portfolio)  
+- 🔗 [**Project 2: comm-sync (chat application) **](https://github.com/Gogulan108/Comm-Sync)  
 
 > _Want a walk-through or code review? Reach out anytime!_
 
@@ -72,8 +70,8 @@
 ### 💻 LeetCode Progress
 
 <p align="center">
-  <a href="https://leetcode.com/Gogulan108/">
-    <img src="https://leetcard.jacoblin.cool/Gogulan108?theme=dark&font=Fira+Code&ext=heatmap" alt="LeetCode Stats" />
+  <a href="https://leetcode.com/u/Gogulankrish5/">
+    <img src="https://leetcard.jacoblin.cool/Gogulankrish5?theme=dark&font=Fira+Code&ext=heatmap" alt="LeetCode Stats" />
   </a>
 </p>
 
@@ -102,7 +100,7 @@
   <a href="mailto:gogulankrish5@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/Gogulan108/">
+  <a href="https://leetcode.com/Gogulankrish5/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
